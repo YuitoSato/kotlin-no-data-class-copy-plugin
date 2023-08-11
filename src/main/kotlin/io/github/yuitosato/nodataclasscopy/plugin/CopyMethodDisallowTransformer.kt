@@ -1,4 +1,4 @@
-package io.github.yuitosato.nodataclasscopy.plugin.transformer
+package io.github.yuitosato.nodataclasscopy.plugin
 
 import org.jetbrains.kotlin.backend.common.IrElementTransformerVoidWithContext
 import org.jetbrains.kotlin.backend.common.extensions.IrPluginContext
